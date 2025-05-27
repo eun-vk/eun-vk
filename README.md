@@ -5,14 +5,14 @@
   <img src="https://komarev.com/ghpvc/?username=eun-vk&label=Profile%20views&color=brightgreen&style=flat-square" alt="eun-vk" />
 </p>
 
----
+<hr>
 
 ### 🌱 About Me
 
-- 🐍 I’m currently learning **Python**
+- 🐍 I’m currently learning **Python**  
 - 🏸 My hobby is **squash**
 
----
+<hr>
 
 ### 🛠️ Languages and Tools
 
@@ -22,10 +22,17 @@
   </a>
 </p>
 
----
+<hr>
 
 ### 🔥 GitHub Streak
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eun-vk&theme=tokyonight" alt="eun-vk" />
 </p>
+
+<hr>
+
+<blockquote style="font-style: italic; color: #bbb; text-align: center;">
+"Code is like humor. When you have to explain it, it’s bad."  
+<br>— Cory House
+</blockquote>
