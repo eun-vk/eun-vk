@@ -7,13 +7,9 @@
 
 - 🔥 My hobby is **squash**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://eun-vk.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://eun-vk.github.io/" height="30" width="40" /></a>
+<a href="https://dev.to/eun-vk.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="eun-vk.github.io" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eun-vk&show_icons=true&locale=en" alt="eun-vk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eun-vk&" alt="eun-vk" /></p>
-
